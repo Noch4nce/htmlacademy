@@ -39,6 +39,7 @@ section::before,
 article::before,
 aside::before {
   color: #9779ec;
+  font-weight: ;
 }
 
 h1,
